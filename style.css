@@ -1,0 +1,156 @@
+.header{
+    text-align: center;
+    position: relative;
+}
+
+
+
+
+.name{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
+    color: rgb(26, 24, 21);
+}
+
+
+
+
+.number{
+    position: relative;
+    right: 250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';
+    text-decoration: none;
+
+}
+
+
+
+
+
+.github{
+    position: relative;
+    left: 500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';
+    text-decoration: none;
+}
+
+
+
+.email{
+    position: relative;
+    right: 250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';
+    text-decoration: none;
+
+}
+
+
+.linkedin{
+    position: relative;
+    left: 480px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';  
+    color: #000;
+    text-decoration: none;
+
+}
+
+
+
+a:hover {
+    color: rgb(1, 29, 151);
+    text-decoration: none;
+}
+
+
+
+.line {
+    
+        border-top: 2px dotted rgb(75, 74, 74);
+        margin-top: 30px;
+        margin-bottom: 30px;
+        width: 900px;
+        position: relative;
+        left: 240px;
+        right: 300px;
+        
+    
+}
+
+
+
+
+/*end of header*/
+
+
+
+
+.about{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';  
+    position: relative;
+    left: 250px;
+    font-size: 90%;
+}
+
+
+.edu{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';  
+    position: relative;
+    left: 250px;
+    font-size: 90%; 
+}
+
+
+.Courses{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';  
+    position: relative;
+    left: 250px;
+    font-size: 90%;
+}
+
+
+
+.experience{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';  
+    position: relative;
+    left: 250px;
+    font-size: 90%;
+
+}
+
+
+
+.Skills{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';  
+    position: relative;
+    left: 250px;
+    font-size: 90%;
+}
+
+
+
+.Publications{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';  
+    position: relative;
+    left: 250px;
+    font-size: 90%;
+}
+
+
+.Projects{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'lucida sans';  
+    position: relative;
+    left: 250px;
+    font-size: 90%;
+}
