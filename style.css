@@ -1,6 +1,6 @@
 .header{
     text-align: center;
-    position: relative;
+    position: center;
 }
 
 
@@ -10,6 +10,8 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'Lucida Sans';
     color: rgb(26, 24, 21);
+    
+    
 }
 
 
@@ -17,10 +19,12 @@
 
 .number{
     position: relative;
-    right: 250px;
+    right: 200px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'lucida sans';
     text-decoration: none;
+    position: relative;
+    right: 250px;
 
 }
 
@@ -72,10 +76,10 @@ a:hover {
         border-top: 2px dotted rgb(75, 74, 74);
         margin-top: 30px;
         margin-bottom: 30px;
-        width: 900px;
-        position: relative;
-        left: 240px;
-        right: 300px;
+        width: 100%;
+        position: center;
+        
+       
         
     
 }
@@ -91,39 +95,52 @@ a:hover {
 .about{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'lucida sans';  
-    position: relative;
-    left: 250px;
     font-size: 90%;
 }
+
+
+
+/*end of about*/
 
 
 .edu{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'lucida sans';  
-    position: relative;
-    left: 250px;
     font-size: 90%; 
 }
+
+
+
+/*end of edu*/
+
+
 
 
 .Courses{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'lucida sans';  
-    position: relative;
-    left: 250px;
     font-size: 90%;
 }
+
+
+
+
+/*end of courses*/
+
 
 
 
 .experience{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'lucida sans';  
-    position: relative;
-    left: 250px;
     font-size: 90%;
 
 }
+
+
+
+/*end of Exprience*/
+
 
 
 
@@ -131,26 +148,38 @@ a:hover {
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'lucida sans';  
-    position: relative;
-    left: 250px;
     font-size: 90%;
 }
+
+
+
+/*end of skilss*/
+
 
 
 
 .Publications{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'lucida sans';  
-    position: relative;
-    left: 250px;
     font-size: 90%;
 }
+
+
+
+/*end of pub*/
+
+
 
 
 .Projects{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: 'lucida sans';  
-    position: relative;
-    left: 250px;
     font-size: 90%;
 }
+
+
+
+
+/*end of projects*/
+
+
